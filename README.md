@@ -14,7 +14,8 @@ This project predicts crop yield using machine learning techniques based on envi
 ## Features
 
 * Predict crop yield based on input data
-* Data preprocessing and analysis
+* Data preprocessing
+* Data analysis
 * Basic visualization support
 
 ## Input Parameters
