@@ -46,4 +46,5 @@ This project predicts crop yield using machine learning techniques based on envi
 
 Md Basheer Khan,
 N Harika,
-K Pranav
+K Pranav,
+N Nikhil
